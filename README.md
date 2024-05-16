@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif) 
-<h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
+<h1 align="center">Hi there 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A passionate junior software developer who is highly motivated to upskill, learn and develop large-scale projects and solutions using new tech-tools.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
