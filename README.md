@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif)
+[![MasterHead](https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif)]
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A graduated & passionate software developer who is highly motivated to upskill, learn and develop large-scale projects and solutions using new tech-tools.</h3>
 
