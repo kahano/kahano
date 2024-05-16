@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning **ASP.Net core & React**
 
-- 📫 How to reach me **kahano243@gmail.com**
+- 📫 Feel free to reach me out at                                                                                                                                                            
+               **kahano243@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
