@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A graduated & passionate software developer who is highly motivated to upskill, learn and develop large-scale projects and solutions using new tech-tools.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+(img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 
 
