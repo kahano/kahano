@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahano&label=Profile%20views&color=0e75b6&style=flat" alt="kahano" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kahano" alt="kahano" /></a> </p>
-
 - 🌱 I’m currently learning **ASP.Net core & React**
 
 - 📫 Feel free to reach me out at                                                                                                                                                            
