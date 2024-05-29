@@ -1,5 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif) 
 <h1 align="center">Hi there 👋, I'm Mohamed </h1>
+<h2 align= "center"> coding <div class="heart">💛</div>  enthusiast </h2>
 <h3 align="center">A passionate junior software developer who is highly motivated to upskill, learn and develop large-scale projects and solutions using new tech-tools.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
