@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahano&label=Profile%20views&color=0e75b6&style=flat" alt="kahano" /> </p>
 
-- 🌱 I’m currently learning **ASP.Net core & React**
+- 🌱 I’m currently learning **ASP.Net core & Github Actions**
 
 - 📫 Feel free to reach me out at                                                                                                                                                            
                **kahano243@gmail.com**
